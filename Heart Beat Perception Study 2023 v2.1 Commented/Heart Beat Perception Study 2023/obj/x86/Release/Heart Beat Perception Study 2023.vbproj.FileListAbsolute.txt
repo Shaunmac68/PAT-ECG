@@ -1,0 +1,30 @@
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\bin\Release\Heart Beat Perception Study 2023.exe.manifest
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\bin\Release\Heart Beat Perception Study 2023.application
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\bin\Release\Heart Beat Perception Study 2023.exe
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\bin\Release\Heart Beat Perception Study 2023.pdb
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\bin\Release\Heart Beat Perception Study 2023.xml
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.vbproj.ResolveComReference.cache
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\obj\x86\Release\WindowsApplication1.ConfidenceForm.resources
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.vbproj.GenerateResource.Cache
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.exe.manifest
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.application
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.exe
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.xml
+C:\Heart Beat Perception Study 2023 v6\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.pdb
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\bin\Release\Heart Beat Perception Study 2023.exe.manifest
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\bin\Release\Heart Beat Perception Study 2023.application
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\bin\Release\Heart Beat Perception Study 2023.exe
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\bin\Release\Heart Beat Perception Study 2023.pdb
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\bin\Release\Heart Beat Perception Study 2023.xml
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.vbproj.ResolveComReference.cache
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\obj\x86\Release\WindowsApplication1.ConfidenceForm.resources
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.vbproj.GenerateResource.Cache
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.exe.manifest
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.application
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.exe
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.xml
+C:\Heart Beat Perception Study 2023 v10\Heart Beat Perception Study 2023\obj\x86\Release\Heart Beat Perception Study 2023.pdb

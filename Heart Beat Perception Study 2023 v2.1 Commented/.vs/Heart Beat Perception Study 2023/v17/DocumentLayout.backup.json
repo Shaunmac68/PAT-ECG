@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pes808\\OneDrive - Bangor University\\Desktop\\Heart Beat Perception Study 2023 v2.1 Commented\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD8A14-B4E3-4DF3-99DC-3F1A85FCACE4}|Heart Beat Perception Study 2023\\Heart Beat Perception Study 2023.vbproj|c:\\users\\pes808\\onedrive - bangor university\\desktop\\heart beat perception study 2023 v2.1 commented\\heart beat perception study 2023\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CCD8A14-B4E3-4DF3-99DC-3F1A85FCACE4}|Heart Beat Perception Study 2023\\Heart Beat Perception Study 2023.vbproj|solutionrelative:heart beat perception study 2023\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Heart Beat Perception Study 2023||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Heart Beat Perception Study 2023",
+              "DocumentMoniker": "C:\\Users\\pes808\\OneDrive - Bangor University\\Desktop\\Heart Beat Perception Study 2023 v2.1 Commented\\Heart Beat Perception Study 2023\\Heart Beat Perception Study 2023.vbproj",
+              "RelativeDocumentMoniker": "Heart Beat Perception Study 2023\\Heart Beat Perception Study 2023.vbproj",
+              "ToolTip": "C:\\Users\\pes808\\OneDrive - Bangor University\\Desktop\\Heart Beat Perception Study 2023 v2.1 Commented\\Heart Beat Perception Study 2023\\Heart Beat Perception Study 2023.vbproj",
+              "RelativeToolTip": "Heart Beat Perception Study 2023\\Heart Beat Perception Study 2023.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-05T09:31:38.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\pes808\\OneDrive - Bangor University\\Desktop\\Heart Beat Perception Study 2023 v2.1 Commented\\Heart Beat Perception Study 2023\\Form1.vb",
+              "RelativeDocumentMoniker": "Heart Beat Perception Study 2023\\Form1.vb",
+              "ToolTip": "C:\\Users\\pes808\\OneDrive - Bangor University\\Desktop\\Heart Beat Perception Study 2023 v2.1 Commented\\Heart Beat Perception Study 2023\\Form1.vb",
+              "RelativeToolTip": "Heart Beat Perception Study 2023\\Form1.vb",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-05T09:25:32.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

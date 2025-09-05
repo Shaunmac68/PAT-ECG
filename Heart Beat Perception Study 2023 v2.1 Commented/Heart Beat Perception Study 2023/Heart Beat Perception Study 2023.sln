@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Heart Beat Perception Study 2023", "Heart Beat Perception Study 2023.vbproj", "{9CCD8A14-B4E3-4DF3-99DC-3F1A85FCACE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CCD8A14-B4E3-4DF3-99DC-3F1A85FCACE4}.Debug|x86.ActiveCfg = Debug|x86
+		{9CCD8A14-B4E3-4DF3-99DC-3F1A85FCACE4}.Debug|x86.Build.0 = Debug|x86
+		{9CCD8A14-B4E3-4DF3-99DC-3F1A85FCACE4}.Release|x86.ActiveCfg = Release|x86
+		{9CCD8A14-B4E3-4DF3-99DC-3F1A85FCACE4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
