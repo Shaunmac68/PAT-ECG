@@ -9,4 +9,4 @@ A box to house the Teensy board.<br>
 A knob to attach to the output shaft of the encoder.<br>
 Computer speakers with built in amplifier.<br>
 
-![alt text](https://github.com/[Shaunmac68]/[PAT-ECG]/blob/[main]/CircuitDiagram.jpg?raw=true)
+![alt text](https://github.com/[Shaunmac68]/[PAT-ECG]/[main]/CircuitDiagram.jpg?raw=true)
