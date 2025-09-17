@@ -8,3 +8,5 @@ A box to house the Teensy board.<br>
 25-way male connector and casing.<br>
 A knob to attach to the output shaft of the encoder.<br>
 Computer speakers with built in amplifier.<br>
+
+![alt text](https://github.com/[Shaunmac68]/[PAT-ECG]/blob/[main]/Circuit Diagram.jpg?raw=true)
