@@ -8,5 +8,5 @@ A box to house the Teensy board.<br>
 25-way male connector and casing.<br>
 A knob to attach to the output shaft of the encoder.<br>
 Computer speakers with built in amplifier.<br>
+A filter circuit, as shown at the bottom of the circuit diagram.<br>
 
-![CircuitDiagram](https://github.com/user-attachments/assets/e8165346-b7b1-4478-b5cb-b234dcd972d8)
