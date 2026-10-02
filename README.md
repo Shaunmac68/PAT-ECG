@@ -11,5 +11,5 @@ A knob to attach to the output shaft of the encoder.<br>
 Computer speakers with built in amplifier.<br>
 A filter circuit, as shown at the bottom of the circuit diagram (to be added very soon).<br>
 <br>
-A Lepy LP-2024A+ audio amplifier to drive the tactile stimulus.<br>
-Dayton Audio Puck T25 (tactile stimulus).<br>
+A Lepy LP-2024A+ audio amplifier to drive the tactile stimulus for the training task.<br>
+Dayton Audio Puck T25 (tactile stimulus for the training task).<br>
