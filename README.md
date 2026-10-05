@@ -9,7 +9,8 @@ A box to house the Teensy board.<br>
 25-way male connector and casing.<br>
 A knob to attach to the output shaft of the encoder.<br>
 Computer speakers with built in amplifier.<br>
-A filter circuit, as shown at the bottom of the circuit diagram (to be added very soon).<br>
+A filter circuit, as shown at the bottom of the circuit diagram.<br>
+A 150nF capacitor to remove the D.C. component from the auditory stimulus output of pin 15 (Teensy MPU).  
 <br>
 A Lepy LP-2024A+ 20W RMS audio amplifier to drive the tactile stimulus for the training task.<br>
 Dayton Audio Puck T25-8 (20W 8ohm tactile stimulus for the training task).<br>
